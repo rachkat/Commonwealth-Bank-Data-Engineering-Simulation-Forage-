@@ -1,0 +1,22 @@
+,id,timestamp,quantity,product_id,product_name,unit_price,total_amount,store,payment_method,customer_id,customer_type
+0,47d54138-a950-4ec0-9d4a-e637e8dfb290,###########,10,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,3.9,South Billyview,cash,c2b9eddd-df8c-446a-ae34-50ad88f28e0a,non-member
+1,dea298b1-26ca-4a43-bcef-4050fb74ce1d,###########,1,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,0.39,South Edward,contactless,134a3c2c-8ccc-494c-9916-a15ff10a9125,member
+2,8dcd78f6-2e68-4fe3-9bb0-afe3bb2c3944,###########,10,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,3.9,South Billyview,contactless,a310b698-4e34-4a4a-8c60-e72fad63f9ba,gold
+3,261c100c-b121-44b7-bc03-787f396c2061,###########,8,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,3.12,South Michaelfurt,credit card,0dfaced3-271c-4da0-80fc-fd3de4328bd5,corporate
+4,7d025b4d-caac-40a5-b954-63cd7bd20f92,###########,1,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,0.39,Christopherfurt,cash,b05efb3f-c38e-4b86-8366-32e42340a4dc,gold
+5,50adf65d-1917-49ef-9f8b-cddd9969d01b,###########,10,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,3.9,Erichaven,credit card,78f29877-3ed9-4c58-a81a-3f5a248800bb,staff
+6,01e25123-0995-4eda-8870-b9965a03fd3d,###########,3,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,1.17,Tracyton,contactless,5b2b478e-e102-47e3-ac06-04c58e6d9c2d,staff
+7,b273ec23-b75d-4656-bd7f-315238bbacba,###########,10,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,3.9,South Christineside,contactless,ffb04b72-49fa-4e9a-8a91-96db0a8596a8,staff
+8,ea773393-f8d9-4192-a33a-66429e139760,###########,8,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,3.12,Meganton,debit card,11171cf2-6670-4a7e-b56c-a54a1fa24cc3,staff
+9,e8602bf8-f2f1-41a6-98b3-128977093cc3,###########,4,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,1.56,South Christineside,credit card,77e5eeed-52a2-48a2-a424-75fdcd5b8270,corporate
+10,46cf95a9-d213-4007-9d84-7b9a4fb13d93,###########,4,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,1.56,Tracyton,contactless,b9e9cdfe-af4a-40b9-8514-ac5413f7f23a,staff
+11,9fc5ef4f-a2ff-4108-9094-ca8d61a47268,###########,1,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,0.39,Erichaven,contactless,fd690f65-ff94-4ddd-bf5d-37bbe884f172,member
+12,135ebfdf-c496-495f-8118-fbd537e89f81,###########,8,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,3.12,Julieview,credit card,55dc7485-f688-4478-a0fd-550eb484369f,non-member
+13,727600d7-6e42-43a1-8592-f46937193dbd,###########,3,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,1.17,New Glenn,contactless,4b03fab5-7fc5-4695-9a13-5fb613756486,staff
+14,06969cdd-77d7-474b-966e-bd0757d78b7a,###########,1,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,0.39,Christopherhaven,contactless,9fcbf1e6-606b-4ca4-9a4a-a4c17a6d1ee2,premium
+15,d7e9dd09-ae49-47ef-a1a9-fa9cfba6e743,###########,3,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,1.17,Justinstad,credit card,cc2ca94b-be73-411a-be69-c138288a653b,corporate
+16,9622bf28-cef5-4fe1-9954-e25bdec35cfe,###########,7,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,2.73,North Charles,credit card,f00ac296-1ac8-4cf6-af4b-06698e59a9fc,staff
+17,cd388917-50ab-4df7-b4f3-894b9a611ef4,###########,5,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,1.95,Jaredside,cash,178ea2bc-de60-4815-a2fa-b08ee550cbdf,premium
+18,eace4145-3d07-442d-8a7b-6ec9436525c9,###########,9,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,3.51,Alexmouth,debit card,615015fa-87cf-4b02-bbbf-2f77f5deeedf,non-member
+19,2c21aa4a-7e9a-49b9-8aae-d5beada3a849,###########,8,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,3.12,Jaredside,credit card,9207f286-7695-427c-8a95-d9c753a01efb,staff
+20,ed1a34d6-6536-449d-8f01-1e469c5c142c,###########,3,56b274d1-b2a4-47be-abaf-6c1c7742beb9,wheat,0.39,1.17,Alexmouth,debit card,da9bb4a1-dc86-403f-ac17-dda688a7beb9,gold
