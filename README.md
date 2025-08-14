@@ -2,11 +2,20 @@
 
 > Portfolio project based on a job simulation focusing on data engineering and analysis with realistic transactional data.
 
+## This project is part of CBA’s vision to leverage transactional and open-source data to power insights for businesses, governments, and investors across Australia. As part of the data engineering team, my role was to analyze supermarket transactions, build clean datasets, and surface KPIs that could feed into scalable insight pipelines.
+
 ## 🧭 Project Overview
 This repo demonstrates:
 - The importance of data engineering & analysis in a long-term, data-focused vision.
 - Working with realistic transactional data (cleaning, validation, feature building).
 - Answering concrete business questions with analysis and clear communication.
+
+## Skills & Tools
+- Data analysis & KPI reporting
+- Data cleaning & validation
+- Spreadsheet analysis (Excel/Google Sheets)
+- Python (Pandas, Matplotlib) 
+- Data visualization & dashboarding
 
 ## 📂 Repository Structure
 ```
