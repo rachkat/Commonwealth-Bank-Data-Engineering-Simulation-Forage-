@@ -1,0 +1,4 @@
+# Data Notes
+
+- Place raw simulation files in this folder (`data/raw/`). By default, this folder is **git-ignored**.
+- If you cannot publish the raw data, include a small **synthetic** sample (provided) or a data-generation script so others can reproduce your results.

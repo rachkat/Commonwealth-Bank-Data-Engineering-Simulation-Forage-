@@ -1,0 +1,5 @@
+customer_id,txn_id,txn_timestamp,amount,category,channel,region
+1001,TXN-0001,2025-01-03T10:20:00,45.90,groceries,card,NSW
+1002,TXN-0002,2025-01-03T11:02:00,12.10,coffee,card,NSW
+1001,TXN-0003,2025-01-10T16:40:00,120.00,utilities,transfer,QLD
+1003,TXN-0004,2025-01-12T09:12:00,256.49,electronics,card,VIC

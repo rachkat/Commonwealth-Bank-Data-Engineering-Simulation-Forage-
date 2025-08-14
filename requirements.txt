@@ -1,0 +1,8 @@
+pandas>=2.2
+polars>=1.5
+jupyter>=1.0
+matplotlib>=3.9
+ruff>=0.5
+black>=24.4
+isort>=5.13
+pytest>=8.2
