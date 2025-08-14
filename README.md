@@ -49,6 +49,11 @@ python -m src.pipeline_example
 - Use the provided `DATA_README.md` to describe how a reviewer can obtain or simulate data.
 - Commit **synthetic samples** instead (see `data/raw/sample_transactions.csv`).
 
+## Data Source
+The dataset used in this project comes from the Forage x Commonwealth Bank Data Engineering Simulation.  
+Due to confidentiality, the original data cannot be shared publicly.  
+A small synthetic sample is included in `data/raw/sample_supermarket_transactions.csv` for demonstration purposes.
+
 ## What this project answers (examples)
 - Transactional summary metrics (e.g., monthly volume, avg basket size, churn proxy).
 - Segmentation by customer/product/region.
